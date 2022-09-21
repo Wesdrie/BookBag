@@ -1,0 +1,42 @@
+C:\Users\Hendr\source\repos\BookBag\bin\Debug\BookBag.exe.config
+C:\Users\Hendr\source\repos\BookBag\bin\Debug\BookBag.exe
+C:\Users\Hendr\source\repos\BookBag\bin\Debug\BookBag.pdb
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.csproj.AssemblyReference.cache
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.MenuWindow.resources
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.SortingWindow.resources
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.Properties.Resources.resources
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.csproj.GenerateResource.cache
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.csproj.CoreCompileInputs.cache
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.exe
+C:\Users\Hendr\source\repos\BookBag\obj\Debug\BookBag.pdb
+C:\Users\Hendr\source\repos\BookBag\bin\Debug\Attempts.mdf
+C:\Users\Hendr\source\repos\BookBag\bin\Debug\Attempts_log.ldf
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\bin\Debug\Attempts.mdf
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\bin\Debug\Attempts_log.ldf
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\bin\Debug\BookBag.exe.config
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\bin\Debug\BookBag.exe
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\bin\Debug\BookBag.pdb
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.csproj.AssemblyReference.cache
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.MenuWindow.resources
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.SortingWindow.resources
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.Properties.Resources.resources
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.csproj.GenerateResource.cache
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.csproj.CoreCompileInputs.cache
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.exe
+C:\Users\Hendr\OneDrive\Documents\BookBag - DATABASE REDO\obj\Debug\BookBag.pdb
+C:\BookBag\bin\Debug\Attempts.mdf
+C:\BookBag\bin\Debug\Attempts_log.ldf
+C:\BookBag\bin\Debug\BookBag.exe.config
+C:\BookBag\bin\Debug\BookBag.exe
+C:\BookBag\bin\Debug\BookBag.pdb
+C:\BookBag\obj\Debug\BookBag.csproj.AssemblyReference.cache
+C:\BookBag\obj\Debug\BookBag.csproj.SuggestedBindingRedirects.cache
+C:\BookBag\obj\Debug\BookBag.MenuWindow.resources
+C:\BookBag\obj\Debug\BookBag.SortingWindow.resources
+C:\BookBag\obj\Debug\BookBag.Properties.Resources.resources
+C:\BookBag\obj\Debug\BookBag.csproj.GenerateResource.cache
+C:\BookBag\obj\Debug\BookBag.csproj.CoreCompileInputs.cache
+C:\BookBag\obj\Debug\BookBag.exe
+C:\BookBag\obj\Debug\BookBag.pdb

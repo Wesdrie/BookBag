@@ -1,0 +1,14 @@
+C:\BookBag\bin\Release\Attempts.mdf
+C:\BookBag\bin\Release\Attempts_log.ldf
+C:\BookBag\bin\Release\BookBag.exe.config
+C:\BookBag\bin\Release\BookBag.exe
+C:\BookBag\bin\Release\BookBag.pdb
+C:\BookBag\obj\Release\BookBag.csproj.AssemblyReference.cache
+C:\BookBag\obj\Release\BookBag.csproj.SuggestedBindingRedirects.cache
+C:\BookBag\obj\Release\BookBag.MenuWindow.resources
+C:\BookBag\obj\Release\BookBag.SortingWindow.resources
+C:\BookBag\obj\Release\BookBag.Properties.Resources.resources
+C:\BookBag\obj\Release\BookBag.csproj.GenerateResource.cache
+C:\BookBag\obj\Release\BookBag.csproj.CoreCompileInputs.cache
+C:\BookBag\obj\Release\BookBag.exe
+C:\BookBag\obj\Release\BookBag.pdb
