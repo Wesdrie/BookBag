@@ -40,3 +40,17 @@ C:\BookBag\obj\Debug\BookBag.csproj.GenerateResource.cache
 C:\BookBag\obj\Debug\BookBag.csproj.CoreCompileInputs.cache
 C:\BookBag\obj\Debug\BookBag.exe
 C:\BookBag\obj\Debug\BookBag.pdb
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.MenuWindow.resources
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.SortingWindow.resources
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.exe
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.pdb
+C:\Users\lab_services_student\Documents\Repos\BookBag\bin\Debug\Attempts.mdf
+C:\Users\lab_services_student\Documents\Repos\BookBag\bin\Debug\Attempts_log.ldf
+C:\Users\lab_services_student\Documents\Repos\BookBag\bin\Debug\BookBag.exe.config
+C:\Users\lab_services_student\Documents\Repos\BookBag\bin\Debug\BookBag.exe
+C:\Users\lab_services_student\Documents\Repos\BookBag\bin\Debug\BookBag.pdb
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.Properties.Resources.resources
+C:\Users\lab_services_student\Documents\Repos\BookBag\obj\Debug\BookBag.csproj.CoreCompileInputs.cache

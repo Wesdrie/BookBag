@@ -137,8 +137,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>Attempts.mdf</DependentUpon>
     </Content>
-    <Content Include="TextFile1.txt" />
-    <None Include="NOTEPAD.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

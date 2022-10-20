@@ -35,10 +35,5 @@ namespace BookBag
             //ENSURE APPLICATION ENDS
             System.Windows.Forms.Application.Exit();
         }
-
-        private void NotesButton_Click(object sender, EventArgs e)
-        {
-            Process.Start("notepad.exe", "C:\\BookBag\\TextFile1.txt");
-        }
     }
 }

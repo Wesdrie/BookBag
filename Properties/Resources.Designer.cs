@@ -59,15 +59,5 @@ namespace BookBag.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap NOTEPAD {
-            get {
-                object obj = ResourceManager.GetObject("NOTEPAD", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
