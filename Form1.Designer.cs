@@ -33,6 +33,7 @@
             this.AreaButton = new System.Windows.Forms.Button();
             this.SortButton = new System.Windows.Forms.Button();
             this.SplitOne = new System.Windows.Forms.SplitContainer();
+            this.ExitButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.SplitOne)).BeginInit();
             this.SplitOne.Panel1.SuspendLayout();
             this.SplitOne.SuspendLayout();
@@ -47,8 +48,8 @@
             this.CallButton.Location = new System.Drawing.Point(0, 100);
             this.CallButton.Margin = new System.Windows.Forms.Padding(0);
             this.CallButton.Name = "CallButton";
-            this.CallButton.Size = new System.Drawing.Size(221, 50);
-            this.CallButton.TabIndex = 2;
+            this.CallButton.Size = new System.Drawing.Size(185, 50);
+            this.CallButton.TabIndex = 0;
             this.CallButton.Text = "Call Numbers";
             this.CallButton.UseVisualStyleBackColor = true;
             // 
@@ -61,8 +62,8 @@
             this.AreaButton.Location = new System.Drawing.Point(0, 50);
             this.AreaButton.Margin = new System.Windows.Forms.Padding(0);
             this.AreaButton.Name = "AreaButton";
-            this.AreaButton.Size = new System.Drawing.Size(221, 50);
-            this.AreaButton.TabIndex = 1;
+            this.AreaButton.Size = new System.Drawing.Size(185, 50);
+            this.AreaButton.TabIndex = 0;
             this.AreaButton.Text = "Identify Areas";
             this.AreaButton.UseVisualStyleBackColor = true;
             // 
@@ -74,7 +75,7 @@
             this.SortButton.Location = new System.Drawing.Point(0, 0);
             this.SortButton.Margin = new System.Windows.Forms.Padding(0);
             this.SortButton.Name = "SortButton";
-            this.SortButton.Size = new System.Drawing.Size(221, 50);
+            this.SortButton.Size = new System.Drawing.Size(185, 50);
             this.SortButton.TabIndex = 0;
             this.SortButton.Text = "Replace Books";
             this.SortButton.UseVisualStyleBackColor = true;
@@ -89,24 +90,38 @@
             // 
             // SplitOne.Panel1
             // 
+            this.SplitOne.Panel1.Controls.Add(this.ExitButton);
             this.SplitOne.Panel1.Controls.Add(this.CallButton);
             this.SplitOne.Panel1.Controls.Add(this.AreaButton);
             this.SplitOne.Panel1.Controls.Add(this.SortButton);
             // 
             // SplitOne.Panel2
             // 
-            this.SplitOne.Panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(39)))));
-            this.SplitOne.Size = new System.Drawing.Size(764, 476);
-            this.SplitOne.SplitterDistance = 221;
+            this.SplitOne.Panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(28)))));
+            this.SplitOne.Size = new System.Drawing.Size(634, 361);
+            this.SplitOne.SplitterDistance = 185;
             this.SplitOne.SplitterWidth = 1;
             this.SplitOne.TabIndex = 3;
+            // 
+            // ExitButton
+            // 
+            this.ExitButton.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.ExitButton.FlatAppearance.BorderSize = 0;
+            this.ExitButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.ExitButton.Location = new System.Drawing.Point(0, 311);
+            this.ExitButton.Margin = new System.Windows.Forms.Padding(0);
+            this.ExitButton.Name = "ExitButton";
+            this.ExitButton.Size = new System.Drawing.Size(185, 50);
+            this.ExitButton.TabIndex = 0;
+            this.ExitButton.Text = "Exit";
+            this.ExitButton.UseVisualStyleBackColor = true;
             // 
             // MenuWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(28)))));
-            this.ClientSize = new System.Drawing.Size(764, 476);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(39)))));
+            this.ClientSize = new System.Drawing.Size(634, 361);
             this.Controls.Add(this.SplitOne);
             this.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(241)))), ((int)(((byte)(241)))), ((int)(((byte)(241)))));
@@ -131,6 +146,7 @@
         private System.Windows.Forms.Button AreaButton;
         private System.Windows.Forms.Button SortButton;
         private System.Windows.Forms.SplitContainer SplitOne;
+        private System.Windows.Forms.Button ExitButton;
     }
 }
 
